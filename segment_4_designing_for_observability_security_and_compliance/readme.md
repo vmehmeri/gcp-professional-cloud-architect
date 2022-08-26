@@ -13,6 +13,8 @@
 - Apply Organization Policy constraints to restrict use of external IP addresses
 - Configure VPC Service Controls to create a perimeter for Cloud Storage
 
+Walkthrough: https://youtu.be/t1_PdRPqfAo
+
 ### Segment Resources
 - [VPC Private Access Options](https://cloud.google.com/vpc/docs/private-access-options)
 - [Organization policy constraints](https://cloud.google.com/resource-manager/docs/organization-policy/org-policy-constraints)

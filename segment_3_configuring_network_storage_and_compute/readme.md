@@ -11,6 +11,7 @@
 
 #### Solution (gcloud)
 See `demo.sh`
+Walkthrough: https://youtu.be/2iQ4pTY0sZc
 
 ### Segment Resources
 - [Machine types](https://cloud.google.com/compute/docs/machine-types)
