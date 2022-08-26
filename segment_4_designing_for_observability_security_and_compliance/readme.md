@@ -14,6 +14,7 @@
 - Configure VPC Service Controls to create a perimeter for Cloud Storage
 
 ### Segment Resources
+- [VPC Private Access Options](https://cloud.google.com/vpc/docs/private-access-options)
 - [Organization policy constraints](https://cloud.google.com/resource-manager/docs/organization-policy/org-policy-constraints)
 - [Compliance resource center](https://cloud.google.com/security/compliance)
 - [Types of profiling](https://cloud.google.com/profiler/docs/about-profiler#types_of_profiling_available)
