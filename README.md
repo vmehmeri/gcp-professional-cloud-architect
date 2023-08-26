@@ -23,3 +23,6 @@ The following labs are from Google-owned CloudSkillsBoost (formerly Qwiklabs) an
 - [Service Accounts and Roles: Fundamentals](https://www.cloudskillsboost.google/focuses/1038?parent=catalog)
 - [Installing Anthos Service Mesh on Google Kubernetes Engine](https://www.cloudskillsboost.google/focuses/8459?parent=catalog)
 - [Build a Serverless App with Cloud Run that Creates PDF Files](https://www.cloudskillsboost.google/focuses/8390?parent=catalog)
+
+## More Demos
+Check out the [Associate Cloud Engineer course repository](https://github.com/vmehmeri/gcp-associate-cloud-engineer) and also my [Youtube channel](https://www.youtube.com/playlist?list=PLrMXJESZS1t37YOXKPXnBigxfGf2kHsoh) for more demos.

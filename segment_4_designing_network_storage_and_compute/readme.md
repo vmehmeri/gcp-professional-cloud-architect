@@ -16,4 +16,3 @@ Resources for segment 2 of the course.
 - [Load balancer decision tree](https://cloud.google.com/load-balancing/docs/choosing-load-balancer)
 - [Network service tiers](https://cloud.google.com/network-tiers/docs/overview)
 - [Cloud SQL failover](https://cloud.google.com/sql/docs/mysql/high-availability#failover-overview)
-- [App Engine Supported Runtimes](https://cloud.google.com/appengine/docs/standard/runtimes)
